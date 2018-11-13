@@ -1,11 +1,11 @@
-# animated-system
-test repo
+---
+title: yops core
 
-Die StuTS ... wie schön sie ist.
+---
 
-## ich glaube
-dass man da gar nicht so sehr darauf schauen sollte.
-<!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGl0bGU6IHlvcHMgY29yZVxuIiwiaG
-lzdG9yeSI6Wy0yMDU5NDY5MzgyXX0=
--->
+<h1 id="animated-system">animated-system</h1>
+<p>test repo</p>
+<p>Die StuTS … wie schön sie ist.</p>
+<h2 id="ich-glaube">ich glaube</h2>
+<p>dass man da gar nicht so sehr darauf schauen sollte.</p>
+
